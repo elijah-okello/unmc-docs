@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
-=======================================
+UNMC Licensure System Technical Documentation
+=============================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+
+This repository contains the source code for the UNMC Licensure System Documentation.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://unmc-documenation.readthedocs.io/
