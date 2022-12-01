@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'UNMC License Manager Documentation'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
