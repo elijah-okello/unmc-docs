@@ -24,5 +24,9 @@ Contents
    install
    howitworks
    tools 
-   api
+   thirdparties
+   endpoints
+   logging
+   monitoring
+
 
